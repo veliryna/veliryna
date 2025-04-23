@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello There 👋
+
+I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia 🇪🇪.
+
+### My Tech Stack
+
 
 <!--
 **veliryna/veliryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
