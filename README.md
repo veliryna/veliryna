@@ -3,18 +3,27 @@
 I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia 🇪🇪.
 
 ### My Tech Stack
-- **Languages**: ![Go](https://img.shields.io/badge/Go-F5DEB3?logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-F5DEB3?logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-F5DEB3?logo=openjdk&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5DEB3?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-505050?logo=typescript&logoColor=3178C6)
-![Dart](https://img.shields.io/badge/Dart-505050?logo=dart&logoColor=0175C2)
+- **Languages**: ![Go](https://img.shields.io/badge/Go-2F4F4F?logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-E0FFFF?logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-E0FFFF?logo=openjdk&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F4F4F?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-E0FFFF?logo=typescript&logoColor=3178C6)
+![Dart](https://img.shields.io/badge/Dart-E0FFFF?logo=dart&logoColor=0175C2)
 
-- **Databases**:
-- **Frameworks**:
-- **Web Dev**:
-- **Version Control**:
-- **Project Management**:
+- **Databases**: ![SQLite](https://img.shields.io/badge/SQLite-FFFACD?logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFACD?logo=postgresql&logoColor=336791)
+- **Frameworks**: ![Flutter](https://img.shields.io/badge/Flutter-B0E0E6?logo=flutter&logoColor=02569B)
+![gRPC](https://img.shields.io/badge/gRPC-Protocol%20Buffers-D8BFD8)
+![Vue.js](https://img.shields.io/badge/Vue.js-505050?logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-505050?logo=nextdotjs&logoColor=FFFFFF)
+- **Platforms/Tools**: ![Git](https://img.shields.io/badge/Git-FFF8DC?logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-505050?logo=github&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E0FFFF?logo=githubactions&logoColor=2088FF)
+![Apache Kafka](https://img.shields.io/badge/Kafka-E0FFFF?logo=apachekafka&logoColor=231F20)
+![Docker](https://img.shields.io/badge/Docker-E0FFFF?logo=docker&logoColor=2496ED)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-E0FFFF?logo=googlecloud&logoColor=4285F4)
+- **Project Management**: ![Jira](https://img.shields.io/badge/Jira-FFF8DC?logo=jira&logoColor=0052CC)
+![Linear](https://img.shields.io/badge/Linear-FFF8DC?logo=linear&logoColor=000000)
 
 <!--
 **veliryna/veliryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
