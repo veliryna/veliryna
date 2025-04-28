@@ -25,6 +25,12 @@ I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia
 - **Project Management**: ![Jira](https://img.shields.io/badge/Jira-FFF8DC?logo=jira&logoColor=0052CC)
 ![Linear](https://img.shields.io/badge/Linear-FFF8DC?logo=linear&logoColor=000000)
 
+### Team Projects
+- **Junction 2023**: https://github.com/cewinharhar/junctionHack2023
+- **AI for Ukraine Recovery Hackathon**: https://github.com/SparonixTech/anti-disinformer/tree/hint-styling
+- **Junction 2024**: https://github.com/danihorvath/sisusays
+- **Tallinn DigiEduHack 2024**: https://github.com/AlbertoGinel/Magusta_sweet_FE
+- **Cyberbazaar 2024 Cybersecurity Hackathon**: https://github.com/Fredoooou/ScamGame 
 <!--
 **veliryna/veliryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
