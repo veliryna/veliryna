@@ -3,7 +3,8 @@
 I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia 🇪🇪.
 
 ### My Tech Stack
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-505050?logo=javascript&logoColor=F7DF1E)
+- **Languages**: ![Go](https://img.shields.io/badge/Go-505050?logo=go&logoColor=00ADD8)
+![JavaScript](https://img.shields.io/badge/JavaScript-505050?logo=javascript&logoColor=F7DF1E)
 - **Databases**:
 - **Frameworks**:
 - **Web Dev**:
