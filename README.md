@@ -3,7 +3,12 @@
 I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia 🇪🇪.
 
 ### My Tech Stack
-
+- **Languages**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- **Databases**:
+- **Frameworks**:
+- **Web Dev**:
+- **Version Control**:
+- **Project Management**:
 
 <!--
 **veliryna/veliryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
