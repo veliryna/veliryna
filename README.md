@@ -4,7 +4,12 @@ I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia
 
 ### My Tech Stack
 - **Languages**: ![Go](https://img.shields.io/badge/Go-505050?logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-505050?logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-505050?logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-505050?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-505050?logo=typescript&logoColor=3178C6)
+![Dart](https://img.shields.io/badge/Dart-505050?logo=dart&logoColor=0175C2)
+
 - **Databases**:
 - **Frameworks**:
 - **Web Dev**:
