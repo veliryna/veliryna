@@ -30,7 +30,8 @@ I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia
 - **AI for Ukraine Recovery Hackathon**: https://github.com/SparonixTech/anti-disinformer/tree/hint-styling
 - **Junction 2024**: https://github.com/danihorvath/sisusays
 - **Tallinn DigiEduHack 2024**: https://github.com/AlbertoGinel/Magusta_sweet_FE
-- **Cyberbazaar 2024 Cybersecurity Hackathon**: https://github.com/Fredoooou/ScamGame 
+- **Cyberbazaar 2024 Cybersecurity Hackathon**: https://github.com/Fredoooou/ScamGame
+- **Techstars Startup Weekend Tallinn 2025**: https://github.com/victorcreed/student_power_frontend
 <!--
 **veliryna/veliryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
