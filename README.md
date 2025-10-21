@@ -16,7 +16,7 @@ I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia
 ![gRPC](https://img.shields.io/badge/gRPC-Protocol%20Buffers-D8BFD8)
 ![Vue.js](https://img.shields.io/badge/Vue.js-505050?logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-505050?logo=nextdotjs&logoColor=FFFFFF)
-- **Platforms/Tools**: ![Node.js](https://img.shields.io/badge/Node-FFF8DC?logo=node&logoColor=F05032)
+- **Platforms/Tools**: ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFF8DC?logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-505050?logo=github&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E0FFFF?logo=githubactions&logoColor=2088FF)
