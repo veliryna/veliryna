@@ -1,7 +1,5 @@
 ## Hello There 👋
 
-I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia 🇪🇪.
-
 ### My Tech Stack
 - **Languages**: ![Go](https://img.shields.io/badge/Go-2F4F4F?logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-E0FFFF?logo=python&logoColor=3776AB)
@@ -12,6 +10,7 @@ I'm Iryna, Software Developer from Ukraine 🇺🇦, currently living in Estonia
 
 - **Databases**: ![SQLite](https://img.shields.io/badge/SQLite-FFFACD?logo=sqlite&logoColor=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFACD?logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFACD?logo=mongodb&logoColor=336791)
 - **Frameworks**: ![Flutter](https://img.shields.io/badge/Flutter-B0E0E6?logo=flutter&logoColor=02569B)
 ![gRPC](https://img.shields.io/badge/gRPC-Protocol%20Buffers-D8BFD8)
 ![Vue.js](https://img.shields.io/badge/Vue.js-505050?logo=vuedotjs&logoColor=4FC08D)
